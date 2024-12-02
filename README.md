@@ -10,13 +10,6 @@
     <img src="https://lab.celaraze.com:9999/chemex/chemex.png" width="120"/>
 </p>
 
-<p align="center">
-    <img src="https://img.shields.io/badge/Latest Release-3.9.0-orange" />
-    <img src="https://img.shields.io/badge/PHP-8+-green" />
-    <img src="https://img.shields.io/badge/MySQL-5.7+-blueviolet" />
-    <img src="https://img.shields.io/badge/License-GPL3.0-blue" />
-</p>
-
 ## 仓库托管
 
 Github `https://github.com/celaraze/chemex`
@@ -62,31 +55,6 @@ Gitee `https://gitee.com/celaraze/chemex`
 
 灵活可配置的自定义字段。
 
-## 反馈问题
-
-请随时牢记，这是一个开源项目，作者有自己的生活、自己的工作，QQ群建立的目的是提供一个场所供用户们互相交流，作者不会提供1对1的服务。
-
-## 漏洞上报
-
-请直接邮件作者，勿在 ISSUE 中提交与安全相关的问题以免被恶意利用。
-
-最好的反馈方式是在本代码仓库中提交 Issue，我们在空余时间检查并解决。
-
-## 截图
-
-![](https://lab.celaraze.com:9999/chemex/1.png)
-
-![](https://lab.celaraze.com:9999/chemex/2.png)
-
-![](https://lab.celaraze.com:9999/chemex/3.png)
-
-![](https://lab.celaraze.com:9999/chemex/4.png)
-
-## 咖啡壶没有满足我的需求，我想要咖啡壶成为我想要的样子
-
-咖啡壶是开源的，程序本体及其衍生工具的源码都在你的手中，你可以自行修改成为你想要的样子。
-
-`Fork` 本仓库，修改代码，成为你的。
 
 ## 开源协议
 
