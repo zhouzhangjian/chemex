@@ -11,10 +11,6 @@
 </p>
 
 <p align="center">
-    <a href="https://pd.qq.com/s/sknbyfnh">用户交流频道</a>
-</p>
-
-<p align="center">
     <img src="https://img.shields.io/badge/Latest Release-3.9.0-orange" />
     <img src="https://img.shields.io/badge/PHP-8+-green" />
     <img src="https://img.shields.io/badge/MySQL-5.7+-blueviolet" />
